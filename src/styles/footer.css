@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+.footer {
+  background: #003366 !important;
+  background: linear-gradient(
+    90deg,
+    #003366 0%,
+    #003366 100%
+  ) !important;
+}
+
+.footer p:hover {
+  background-color: #6eaffa !important;
+  color: #f9e4d4 !important;
+  padding: 2px;
+}
